@@ -1,4 +1,4 @@
-# -titanic-ml-code-review-2
+# titanic-ml-code-review-2
 ## 2021/11/24 Machine Learning Study
 Machine Learning Code Review<br>
 Code from Kaggle<br>
